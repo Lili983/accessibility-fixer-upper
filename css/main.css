@@ -84,6 +84,10 @@ td {
   color: #fff;
 }
 
+.highlight {
+  color: #113c00;
+}
+
 @media only screen and (min-width: 35em) {
 
   .about-content {
@@ -96,3 +100,4 @@ td {
   }
 
 }
+© 2020 GitHub, Inc.
